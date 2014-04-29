@@ -3,7 +3,5 @@ description: Notes on life, design, and everything that’s fucking cool.
 url: http://aaroncalzado.com/notes
 baseurl: notes
 markdown: kramdown
-paginate: 1
-paginate_path: "notes/page:num"
 pygments: true
 timezone: America/Los_Angeles

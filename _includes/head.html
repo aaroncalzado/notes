@@ -6,9 +6,9 @@
         </title>
     <meta name="viewport" content="width=device-width">
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="{% unless site.baseurl == "/" %}{{ site.baseurl }}{% endunless %}/css/syntax.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/syntax.css">
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="{% unless site.baseurl == "/" %}{{ site.baseurl }}{% endunless %}/css/main.css">
+        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
         <!-- RSS -->
         <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 </head>
