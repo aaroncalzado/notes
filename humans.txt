@@ -5,7 +5,7 @@
 	From: Ewa Beach, Hawai'i
 
 /* SITE */
-	Last update: 2014/03/03
+	Last update: 2014/04
 	Language: English
 	IDE: Adobe CC, Chrome, Sublime Text
 
@@ -14,8 +14,10 @@
 	Animations: https://github.com/daneden/animate.css
 
 /* TYPEFACES & FONT DELIVERY */
-	Futura:
-	Tisa:
+	Futura PT: https://typekit.com/fonts/futura-pt
+	FF Tisa Pro: https://typekit.com/fonts/ff-tisa-web-pro
+	FontFont: https://www.fontfont.com/
+	ParaType: http://www.paratype.com/
 	Typekit: http://typekit.com
 
 /* HACKS & WEIRD SHIT I HAD TO DO TO MAKE IT WORK */
